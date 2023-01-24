@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="org" fetch="https://github.com/realme-sm6125-devs" />
+
+  <!-- Trees -->
+  <project path="device/realme/r5x" name="device_realme_r5x" revision="statix-tm" remote="org" />	
+  <project path="device/realme/r5x-kernel" name="device_realme_r5x-kernel" revision="statix-tm" remote="org" />
+  <project path="vendor/realme/r5x" name="vendor_realme_r5x" revision="thirteen" remote="org" />
+
+</manifest>
